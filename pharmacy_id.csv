@@ -1,0 +1,5 @@
+prescription_id,patient_name,dept_id,issued_by,issued_on,status,total_items
+RX001,XYZ,D001,Dr. PQR,12-06-2025 09:45,Dispensed,2
+RX002,XYZ,D001,Dr. PQR,12-06-2025 10:00,Pending,1
+RX003,CDE,D002,Dr. LMN,12-06-2025 10:10,Partially Filled,3
+RX004,ABC,D004,Dr. TUV,12-06-2025 10:15,Out of Stock,1

@@ -1,0 +1,5 @@
+drug_id,drug_name,batch_no,expiry_date,stock_qty,reorder_level,status,last_dispensed_on,supplier_id
+DR001,Paracetamol 500mg,B12345,31-12-2025,120,100,Available,10-06-2025,SUP001
+DR002,Amoxicillin 250mg,A67891,15-08-2025,30,50,Low Stock,11-06-2025,SUP002
+DR003,Insulin Injection,I55421,01-07-2025,0,20,Out of Stock,08-06-2025,SUP003
+DR004,ORS Sachet,O33211,10-01-2026,300,150,Available,09-06-2025,SUP001

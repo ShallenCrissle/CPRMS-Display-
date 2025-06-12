@@ -1,0 +1,4 @@
+Department,dept_id,token_prefix,Final token_code
+Gynecology,D001,G,G-101
+Orthopedics,D002,O,O-205
+General Medicine,D004,M,M-310

@@ -1,0 +1,9 @@
+alert_id,code_type,department,timestamp,status
+E001,Code Blue,OT,01-06-2025 09:45,Active
+E002,Code Red,Pharmacy,01-06-2025 10:10,Cleared
+E003,Code Pink,Maternity Ward,01-06-2025 11:05,Active
+E004,Code Orange,Lab,01-06-2025 11:45,Investigating
+E005,Code Yellow,Emergency Room,01-06-2025 12:30,Active
+E006,Code Green,Building A,01-06-2025 13:15,Cleared
+E007,Code Black,Admin Block,01-06-2025 14:00,Escalated
+E008,Code White,General OPD,01-06-2025 15:10,Resolved

@@ -1,0 +1,8 @@
+dept_id,department_name,location,token_prefix
+D001,Gynecology,"Block A, Floor G",G
+D002,Orthopedics,"Block B, Floor 2",O
+D003,Cardiology,"Block C, Floor 1",C
+D004,General Medicine,"Block A, Floor 2",M
+D005,Pediatrics,"Block D, Floor 1",P
+D006,Dermatology,"Block B, Floor G",D
+D007,Emergency/OT,"Block E, Ground Floor",E
